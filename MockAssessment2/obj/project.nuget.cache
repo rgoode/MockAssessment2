@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ap3CE3zcC5zG1EezWVJs/A7ZYEMiikgaNrL/XZQlEHw7fNuhBgdjTr2B/CPXWYv2mtSqrenztPby1dU2hcoqmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rachel\\source\\repos\\MockAssessment2\\MockAssessment2\\MockAssessment2\\MockAssessment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rachel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
